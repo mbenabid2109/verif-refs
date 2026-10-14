@@ -1,0 +1,2 @@
+# Gradio est fourni par Hugging Face Spaces (voir sdk_version dans README.md).
+# verif_refs n'utilise que la bibliothèque standard de Python.

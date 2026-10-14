@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "Si vous utilisez ce logiciel, merci de le citer comme indiqué ci-dessous. / If you use this software, please cite it as below."
+title: "verif-refs : audit de références bibliographiques champ par champ (Crossref, DataCite, OpenAlex, Open Library)"
+type: software
+authors:
+  - family-names: Benabid
+    given-names: Mohamed
+    orcid: "https://orcid.org/0000-0002-0647-9468"
+    affiliation: "Faculty of Governance, Economic and Social Sciences (FGSES), Université Mohammed VI Polytechnique (UM6P)"
+version: 5.2.0
+date-released: 2026-10-14
+license: MIT
+repository-code: "https://github.com/mbenabid2109/verif-refs"
+url: "https://huggingface.co/spaces/mbenabid/verif-refs"
+keywords:
+  - bibliographic references
+  - citation checking
+  - Crossref
+  - OpenAlex
+  - research integrity
+  - Google ADK
+abstract: >-
+  Outil qui compare chaque référence d'une bibliographie aux notices de Crossref,
+  DataCite, OpenAlex et Open Library et signale les écarts champ par champ
+  (auteurs, initiales, revue, volume, numéro, pages, sous-titre, DOI). Les verdicts
+  sont produits par du code déterministe ; un modèle de langage, facultatif,
+  sert seulement à structurer les bibliographies en texte libre.

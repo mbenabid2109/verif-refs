@@ -1,0 +1,3 @@
+# Nécessaire uniquement pour la chaîne d'agents (adk web).
+# La ligne de commande (python -m verif_refs.cli) n'a besoin d'aucune dépendance.
+google-adk>=2.10
