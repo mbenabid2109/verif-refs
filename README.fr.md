@@ -1,5 +1,7 @@
 # verif-refs
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23372620.svg)](https://doi.org/10.5281/zenodo.23372620)
+
 **Audit de références bibliographiques, champ par champ, à partir de sources ouvertes.**
 
 *English version: [README.md](README.md)*
@@ -139,7 +141,9 @@ examples/             fichier .bib d'exemple
 
 ## Citer cet outil
 
-Voir [CITATION.cff](CITATION.cff). Si vous utilisez verif-refs dans une publication, merci de citer l'outil et de mentionner ses limites.
+Benabid, M. (2026). *verif-refs : audit de références bibliographiques champ par champ* (version 5.2.0) [Logiciel]. Zenodo. https://doi.org/10.5281/zenodo.23372620
+
+Voir aussi [CITATION.cff](CITATION.cff) ou le bouton « Cite this repository ». Si vous utilisez verif-refs dans une publication, merci de citer l'outil et de mentionner ses limites.
 
 ## Licence
 

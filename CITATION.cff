@@ -8,6 +8,7 @@ authors:
     orcid: "https://orcid.org/0000-0002-0647-9468"
     affiliation: "Faculty of Governance, Economic and Social Sciences (FGSES), Université Mohammed VI Polytechnique (UM6P)"
 version: 5.2.0
+doi: 10.5281/zenodo.23372620
 date-released: 2026-10-14
 license: MIT
 repository-code: "https://github.com/mbenabid2109/verif-refs"

@@ -1,5 +1,7 @@
 # verif-refs
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23372620.svg)](https://doi.org/10.5281/zenodo.23372620)
+
 **Field-by-field audit of bibliographic references against open sources.**
 
 *Version française : [README.fr.md](README.fr.md)*
@@ -139,7 +141,9 @@ examples/             sample .bib file
 
 ## Citation
 
-See [CITATION.cff](CITATION.cff). If you use verif-refs in a publication, please cite the tool and mention its limitations.
+Benabid, M. (2026). *verif-refs: field-by-field audit of bibliographic references* (Version 5.2.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23372620
+
+See also [CITATION.cff](CITATION.cff) or the "Cite this repository" button. If you use verif-refs in a publication, please cite the tool and mention its limitations.
 
 ## Licence
 
